@@ -5,6 +5,10 @@ body{
 h1{
     font-size: 40px;
 }
+p{
+    font-size: 18px;
+    line-height:150%;
+}
 .name-highlight{
     color: rgb(255, 115, 0);
 }
